@@ -1,6 +1,8 @@
 # translation_using_word_embeddings
 
-Repo for a translation project using word embeddings. The goal is to be able to translate from one language to another using supervised methods (with the presence of a translation dictionnary) and unsupervised methods (using an generative adversarial network to train our model).
+![Model](./image_explanation.png)
+
+Repo for a translation project using word embeddings. The goal is to be able to translate from one language to another using supervised methods (with the presence of a translation dictionnary) and unsupervised methods (using an generative adversarial network to train our model). See [Word Translation without Parallel Data](https://arxiv.org/pdf/1710.04087.pdf) for more details).
 
 Useful documentation will be stored in the `/articles` folder.
 
